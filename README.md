@@ -81,4 +81,3 @@ Here is the result under Windows!
 
   * Tristan Pouliquen (Developer - tristanp@theodo.fr)
   * Vincent Quagliaro (Developer - vincentq@theodo.fr)
-# electroangular
